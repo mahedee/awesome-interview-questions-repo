@@ -1,0 +1,5 @@
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/simeonwillbanks/google-interview-questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/ilking/amazon-interview
+https://github.com/connor11528/coding-interviews
