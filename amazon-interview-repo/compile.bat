@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.net\Framework\v4.0.30319\csc.exe /t:exe /out:%1.exe *.cs
